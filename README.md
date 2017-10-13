@@ -1,4 +1,4 @@
-# Compiler for Eiffel
+# Calculator
 Use: Flex and Bison
 
 ## Run the following commands in the terminal:
